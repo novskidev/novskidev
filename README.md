@@ -41,15 +41,10 @@ I am a dedicated **P3K Educator** and **Web Developer** based in East Java. I sp
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api?username=novskidev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api/top-langs/?username=novskidev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=novskidev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🤝 Connect
-[LinkedIn](https://www.linkedin.com/in/noviann/) • [Portfolio](https://github.com/novskidev)
+[LinkedIn](https://www.linkedin.com/in/noviann/) • [Portfolio](novskidev.com)
