@@ -1,78 +1,55 @@
-<h1 align="center">Hi 👋, I'm Novian Nadari</h1>
-<h3 align="center">Educator | Web Developer | DevOps & Finance Enthusiast</h3>
+<h1 align="center">Novian Nadari</h1>
+<p align="center">Educator | Web Developer | DevOps Enthusiast</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=novskidev&label=Profile%20views&color=0e75b6&style=flat" alt="novskidev" />
+  <img src="https://komarev.com/ghpvc/?username=novskidev&label=Profile%20views&color=0e75b6&style=flat-square" alt="novskidev" />
 </p>
 
 ---
 
-### 💫 About Me
+### 💫 Summary
+I am a dedicated **P3K Educator** and **Web Developer** based in East Java. I specialize in building efficient digital solutions using the JavaScript ecosystem, bridging the gap between education and modern technology. Currently, I am expanding my expertise into **DevOps** and **Stock Analysis**.
 
-I am a dedicated educator and web developer based in East Java, Indonesia. My journey in technology is driven by a passion for building efficient systems and solving real-world problems through code. I specialize in bridging the gap between education and modern digital solutions.
-
-- 🏫 **The Educator's Edge**: Balancing my role as a government-appointed teacher (P3K) with a deep dive into software development.
-- 🚀 **Building Things**: Currently developing **Stockku** (a stock analysis dashboard) and the official portal for **SDN Klagen 1**.
-- 🛠️ **Tech Stack**: Proficient in the JavaScript ecosystem, specifically React, Next.js, and Astro.
-- ⚙️ **Growth Mindset**: Actively mastering **DevOps** (Linux & Docker) and exploring Stock & Forex markets.
-- 🏛️ **Philosophy**: Inspired by Stoicism and Existentialism—aiming for growth in every opportunity.
+- 🚀 **Building**: [Stockku](https://github.com/novskidev) (Stock Analysis Dashboard) & [SDN Klagen 1](https://github.com/novskidev) portal.
+- ⚙️ **Learning**: Linux, Docker, and financial market strategies.
+- 🏛️ **Mindset**: Grounded in Stoic principles and continuous growth.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Frontend & Core**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
+**Frontend**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 **Backend & CMS**
-<p align="left">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" />
-  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
-</p>
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
 
 **DevOps & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📁 Featured Projects
+### 📊 GitHub Activity
 
-- **Stockku**: A personal platform for stock data analysis to support informed investment decisions.
-- **Lindung**: A motorcycle rental application built with React and Supabase.
-- **SDN Klagen 1**: A high-performance school website developed with Astro and Sanity.
-
----
-
-### 🤝 Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/noviann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
+<p align="center">
   <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api?username=novskidev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api/top-langs/?username=novskidev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=novskidev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=novskidev&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🤝 Connect
+[LinkedIn](https://www.linkedin.com/in/noviann/) • [Portfolio](https://github.com/novskidev)
