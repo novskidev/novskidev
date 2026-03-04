@@ -69,8 +69,8 @@ I am a dedicated educator and web developer based in East Java, Indonesia. My jo
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=novskidev&show_icons=true&theme=tokyonight&hide_border=true" alt="Novian's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novskidev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api?username=novskidev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api/top-langs/?username=novskidev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
