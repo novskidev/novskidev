@@ -8,12 +8,11 @@
 ---
 
 ### 💫 Summary
-I am a dedicated **P3K Educator** and **Web Developer** based in East Java. I specialize in building efficient digital solutions using the JavaScript ecosystem, bridging the gap between education and modern technology. Currently, I am expanding my expertise into **DevOps** and **Stock Analysis**.
+I am a dedicated educator and government contractor (P3K) based in East Java, Indonesia, with a profound passion for modern web technologies. My professional journey is defined by a unique intersection of teaching and software development, where I strive to build digital solutions that are both efficient and impactful.
 
-- 🚀 **Building**: [Stockku](https://github.com/novskidev) (Stock Analysis Dashboard) & [SDN Klagen 1](https://github.com/novskidev) portal.
-- ⚙️ **Learning**: Linux, Docker, and financial market strategies.
-- 🏛️ **Mindset**: Grounded in Stoic principles and continuous growth.
+With a core expertise in the JavaScript ecosystem—specifically **React**, **Next.js**, and **Astro**—I focus on creating high-performance web applications. My recent work includes developing **Stockku**, a personal stock analysis dashboard designed to support data-driven investment decisions, and the official web portal for **SDN Klagen 1**. 
 
+Beyond frontend development, I am actively expanding my technical horizons into **DevOps**, with a current focus on mastering Linux environments and Docker orchestration. I am also an active participant in the financial markets, applying my analytical skills to both stock and forex trading. Guided by the principles of **Stoicism** and **Existentialism**, I maintain a growth-oriented mindset, always seeking new opportunities to build, learn, and contribute to the tech community.
 ---
 
 ### 🛠️ Tech Stack
@@ -41,10 +40,15 @@ I am a dedicated **P3K Educator** and **Web Developer** based in East Java. I sp
 ### 📊 GitHub Activity
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api?username=novskidev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api/top-langs/?username=novskidev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=novskidev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🤝 Connect
-[LinkedIn](https://www.linkedin.com/in/noviann/) • [Portfolio](novskidev.com)
+[LinkedIn](https://www.linkedin.com/in/noviann/) • [Portfolio](https://github.com/novskidev)
