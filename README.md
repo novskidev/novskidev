@@ -2,7 +2,7 @@
 <h3 align="center">Educator | Web Developer | DevOps & Finance Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=novskidev&label=Profile%20views&color=0e75b6&style=flat" alt="noviannadari" />
+  <img src="https://komarev.com/ghpvc/?username=novskidev&label=Profile%20views&color=0e75b6&style=flat" alt="novskidev" />
 </p>
 
 ---
@@ -11,10 +11,10 @@
 
 I am a dedicated educator and web developer based in East Java, Indonesia. My journey in technology is driven by a passion for building efficient systems and solving real-world problems through code. I specialize in bridging the gap between education and modern digital solutions.
 
-- 🏫 **The Educator's Edge**: Balancing my role as a government-appointed teacher (P3K) with a deep dive into the software development world.
+- 🏫 **The Educator's Edge**: Balancing my role as a government-appointed teacher (P3K) with a deep dive into software development.
 - 🚀 **Building Things**: Currently developing **Stockku** (a stock analysis dashboard) and the official portal for **SDN Klagen 1**.
 - 🛠️ **Tech Stack**: Proficient in the JavaScript ecosystem, specifically React, Next.js, and Astro.
-- ⚙️ **Growth Mindset**: Actively mastering **DevOps** (Linux & Docker) and exploring the intricacies of Stock & Forex markets.
+- ⚙️ **Growth Mindset**: Actively mastering **DevOps** (Linux & Docker) and exploring Stock & Forex markets.
 - 🏛️ **Philosophy**: Inspired by Stoicism and Existentialism—aiming for growth in every opportunity.
 
 ---
@@ -53,8 +53,8 @@ I am a dedicated educator and web developer based in East Java, Indonesia. My jo
 ### 📁 Featured Projects
 
 - **Stockku**: A personal platform for stock data analysis to support informed investment decisions.
-- **Lindung**: A motorcycle rental application built with React and Supabase, streamlining local transport services.
-- **SDN Klagen 1**: A high-performance school website developed with Astro and Sanity for seamless content management.
+- **Lindung**: A motorcycle rental application built with React and Supabase.
+- **SDN Klagen 1**: A high-performance school website developed with Astro and Sanity.
 
 ---
 
@@ -74,5 +74,5 @@ I am a dedicated educator and web developer based in East Java, Indonesia. My jo
 </p>
 
 <p align="left">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=novskidev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=novskidev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
