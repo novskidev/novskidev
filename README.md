@@ -10,7 +10,3 @@ Currently, I am a government-appointed teacher (**P3K**) while actively developi
 
 ---
 
-<p align="left">
-  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api?username=novskidev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-vercel-seven-97.vercel.app/api/top-langs/?username=novskidev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
