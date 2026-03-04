@@ -21,33 +21,17 @@ I am a dedicated educator and web developer based in East Java, Indonesia. My jo
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, Astro, Tailwind CSS, TypeScript |
-| **Backend/BaaS** | Supabase, Sanity.io |
-| **DevOps** | Linux, Docker (Current Learning Path) |
-| **Methods** | AI-Assisted Development, Git, Agile Learning |
-
----
-
-### 📁 Featured Projects
-
-- **Stockku**: A personal platform for stock data analysis to support informed investment decisions.
-- **Lindung**: A motorcycle rental application built with React and Supabase, streamlining local transport services.
-- **SDN Klagen 1**: A high-performance school website developed with Astro and Sanity for seamless content management.
-
----
-
-### 🤝 Connect with me:
-
+**Frontend & Core**
 <p align="left">
-<a href="https://www.linkedin.com/in/noviann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
----
-
-### 📊 GitHub Stats
+**Backend & CMS**
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=noviannadari&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noviannadari&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="
