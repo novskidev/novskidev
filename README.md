@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Novian Nadari</h1>
 
-I am an **Educator** and **Web Developer** based in East Java, Indonesia 🇮🇩. I have a deep passion for the JavaScript ecosystem and enjoy building efficient web applications that bridge the gap between education and technology.
+I am an **Educator** and **Web Developer** based in Yogyakarta, Indonesia 🇮🇩. I have a deep passion for the JavaScript ecosystem and enjoy building efficient web applications that bridge the gap between education and technology.
 
 Currently, I am a government-appointed teacher (**P3K**) while actively developing **Stockku** (Stock Analysis Dashboard) and the official portal for **SDN Klagen 1**.
 
