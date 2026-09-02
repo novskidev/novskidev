@@ -5,7 +5,7 @@ I am an **Educator** and **Web Developer** based in Yogyakarta, Indonesia 🇮�
 
 ### 💌 Get in Touch
 * **LinkedIn**: [https://www.linkedin.com/in/noviann/](https://www.linkedin.com/in/noviann/)
-* **Personal Website**: [novskidev.com](novskidev.com)
+* **Personal Website**: [novski.dev](novski.dev)
 
 ---
 
